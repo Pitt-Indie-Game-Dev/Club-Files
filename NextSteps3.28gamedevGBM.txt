@@ -1,0 +1,12 @@
+Next Steps (to complete for next time)
+
+create the GitHub repo + project
+
+make first commit
+	Use Unity	
+		decide on Unity version
+	Assets from the Scratch project
+
+maybe: .wav -> .ogg conversion script (ffmpeg)
+	.wav for super short sounds
+	.ogg for most things
