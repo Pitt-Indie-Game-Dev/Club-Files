@@ -1,0 +1,24 @@
+Install git: https://git-scm.com/
+Git is version control, you will probably use it if you are involved in pretty much anything related to computers
+
+Make a github account: https://github.com/
+The most popular version developer platform, make an account, it will probably ask you to add an authenticator, use whatever one you want(Duo works)
+
+Install Unity: https://unity.com/
+Once Unity Hub is installed, don't install the default version, we don't use that(yet). 
+Go to installs->Install Editor(Top right)-> Archive
+Look up the version 6000.4.6f1, and install that(This may change).
+
+Install Microsoft Visual Studio Code(NOT VISUAL STUDIO) https://code.visualstudio.com/
+(Or whatever code editor you want)
+
+Once all of the above is installed, join the Github organization(https://github.com/Pitt-Indie-Game-Dev) and clone the spaceship repository from it. Send us a message so we can accept you. Once you're in, go to the spaceship repository, and hit the code button(It's green) and select HTTPS(Or SSH if you have that set up. It's more secure), copy the git clone command.
+
+Now you need to open your terminal(Windows Powershell, Bash, Zsh), and navigate to a directory where you want to clone the repo. and paste the git clone command and hit enter. Then just enter the cloned repo and type "code ." into the terminal. This should open the folder in VSCode. 
+
+Now open Unity Hub, Projects->Add->From Disk
+And select the folder that the repo is cloned to, and follow whatever instructions it gives you. Make sure to launch it with the aforementioned unity version 6000.4.6f1. 
+
+Then you should be able to open the project in Unity. 
+
+If you get stuck just ping me and I'll try to help.

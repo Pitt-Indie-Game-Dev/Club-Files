@@ -1,0 +1,28 @@
+09/12/2026
+	Sam
+		Get UNITY! 6000.4.6f1
+			Then clone the repo
+			PPL having question on downloading it.
+		Download GitHub
+			Need SSH Key
+			SSH key gen.
+			Setting, access, SSH and GPG keys, New SSH...
+			Need to be invited to GaDCaP 
+			How Git branch works
+				How to name it, if there is a change, name what's the change after pushing. 
+				We ONLY have main now.
+					What's hotfix?
+					Feature and official branch?
+		Vector art
+			Inkscape and Figma
+				How to draw a good vectorial art.
+			Less bug and stuff
+			*You can also do animation via Inkscape
+			Work with other club?
+		START make the 🎮 this week!
+		app.milanote.co
+			WOW we can have everyone doing this thing here right now...
+		Gautam and Jack was made into task manager by Sam claimed to be yesterday.
+		Finish the space prototype.
+		Can have one branch and multiple people?
+		Debug team?

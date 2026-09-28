@@ -1,0 +1,12 @@
+05/16/2026
+Jack
+	Making stars
+	Implementing Spaceship's logic
+	Sam: sub issues of star background？
+		No not mine.
+	Next Week, stars backgroud UI, or more advanced spaceship, or angular momentum logic need to be changed.
+SAM
+	What todo next week?
+	If get it on land would it be too complecated but if no the it won't be too real.
+Me
+	Working on other stuff.

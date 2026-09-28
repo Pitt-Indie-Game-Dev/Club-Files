@@ -1,0 +1,45 @@
+2nd GBM（14:00(Arrived at 14:05)-14:55）03/28/2026
+
+Have the most vote NOT the majority which is 50%. Any attempt with a tie president decides.
+
+How do we gonna do games?
+	Just a simple manageable stuff
+	Could fully realize a great UI and game mechanics. 
+	Do it in Unity. 
+	Deciding?
+		1 semester 1 game?
+			Does not necessarily need to have stop after semester.
+		Original idea is different tiers of games. Core ppl work in long term. Semester long can go long term. 
+			But now just semester ones. 
+		Uh, SAM's game
+	GitHub won't allow 4GB of files.(Jayden)
+	We can use other stuff to share like OneDrive we have 4TB of that.
+We are then called Pitt Indie Game Dev Club
+	Abbr.: PIGDC
+GitHub Repo
+	1st Commit
+	GitHub Project, we need 1
+		Unity
+		Assets from Scratch. 
+WAV/ OGG Files 
+	ogg for most things
+	wav for super short sounds
+
+Me: 1. Intuition explanatory games? Like explaining calculus 2, physics 1 conceptual games?
+2. Should we make an art stuff? Music?
+
+Attenace: Shokeukh/ Remy/ Jayden/ Jack/ Gautam/ SAM/ Me
+
+
+SAM/Jayden/Gautam/Jack/Me
+
+Push and Pull issue. 
+	Dave want to do everything for the player, even developer less decision as possible. Can choose whether get pixelated or mesh, no you don't do that Roblox choose it for you.
+		Dave wants it intuitively easily.
+	Flag a canvas group
+		Request to do that.
+		
+	Internal Edible 
+	Expose redeeming a mesh as API and mad flag was default was bad. New way is bad\
+	Roblox is unversioned so NOT Git.
+	Post 2026. 
